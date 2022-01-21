@@ -1,0 +1,15 @@
+.scroll-pane > .viewport {
+   -fx-background-color: transparent;
+}
+
+.scroll-pane {
+   -fx-background-color: transparent;
+}
+
+.scroll-bar:vertical {
+  -fx-background-color: transparent;
+}
+
+.scroll-bar .increment-button, .decrement-button {
+  -fx-opacity: 0;
+}
