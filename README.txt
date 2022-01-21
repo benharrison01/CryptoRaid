@@ -1,4 +1,4 @@
-# Note:
+#Note:
 This repository contains a University team project. I can only take credit for 1/6th of the content and I have only uploaded here in order to build my portfolio.
 
 We have included scripts for building and running the game.
